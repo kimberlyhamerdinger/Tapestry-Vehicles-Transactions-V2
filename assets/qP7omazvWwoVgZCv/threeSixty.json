@@ -1,0 +1,54 @@
+{
+  "version": "3.17.16117.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6aXBLai5xi7",
+      "title": "WELCOME LAYOUT",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5rxLKJgOco5",
+      "title": "For every transaction you will process in the Tapestry system, there’s a checklist of required documents.",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6DSl7aYK0pV",
+      "title": "You’ll find these checklists in the online Vehicles Procedures Manual.",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6c4edptaHHJ",
+      "title": "Untitled Slide",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "5tSv3jjTIrG",
+      "title": "Untitled Slide",
+      "scene_index": "1.5"
+    },
+    {
+      "id": "61pimjIOQgj",
+      "title": "Untitled Slide",
+      "scene_index": "1.6"
+    },
+    {
+      "id": "6n6wcm32Ea2",
+      "title": "It will make your job so much easier!",
+      "scene_index": "1.7"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

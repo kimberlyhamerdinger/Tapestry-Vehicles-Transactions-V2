@@ -1,0 +1,44 @@
+{
+  "version": "3.17.16117.0",
+  "scenes": [
+    {
+      "title": "Untitled Scene"
+    }
+  ],
+  "slides": [
+    {
+      "id": "6aXBLai5xi7",
+      "title": "WELCOME LAYOUT",
+      "scene_index": "1.1"
+    },
+    {
+      "id": "5rxLKJgOco5",
+      "title": "Here at MVD, one of our guiding values is taking care of our customers by taking care of our staff. ",
+      "scene_index": "1.2"
+    },
+    {
+      "id": "6DSl7aYK0pV",
+      "title": "Not only do we have a state-of-the-art tool like Tapestry, but we have other valuable resources as well.",
+      "scene_index": "1.3"
+    },
+    {
+      "id": "6Nmj0kFXh3I",
+      "title": "We have the MVD Vehicle Procedures Manual.",
+      "scene_index": "1.4"
+    },
+    {
+      "id": "6L0POzYCmXR",
+      "title": "And, most importantly, we have our supervisors!",
+      "scene_index": "1.5"
+    }
+  ],
+  "player": {
+    "name": "unified",
+    "width": 740,
+    "height": 611
+  },
+  "stage": {
+    "width": 720,
+    "height": 540
+  }
+}

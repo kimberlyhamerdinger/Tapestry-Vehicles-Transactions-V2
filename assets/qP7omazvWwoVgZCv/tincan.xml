@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6cScpQEH93G_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Document Checklists</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/6aXBLai5xi7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">WELCOME LAYOUT</name>
+			<description lang="und">WELCOME LAYOUT</description>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/5rxLKJgOco5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">For every transaction you will process in the Tapestry system, there’s a checklist of required documents.</name>
+			<description lang="und">For every transaction you will process in the Tapestry system, there’s a checklist of required documents.</description>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/6DSl7aYK0pV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">You’ll find these checklists in the online Vehicles Procedures Manual.</name>
+			<description lang="und">You’ll find these checklists in the online Vehicles Procedures Manual.</description>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/6c4edptaHHJ" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/5tSv3jjTIrG" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/61pimjIOQgj" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Untitled Slide</name>
+			<description lang="und">Untitled Slide</description>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/6n6wcm32Ea2" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">It will make your job so much easier!</name>
+			<description lang="und">It will make your job so much easier!</description>
+		</activity>
+	</activities>
+</tincan>

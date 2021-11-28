@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<tincan xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://projecttincan.com/tincan.xsd">
+	<activities>
+		<activity id="http://6cScpQEH93G_course_id" type="http://adlnet.gov/expapi/activities/course">
+			<name lang="und">Right Resources</name>
+			<description lang="und" />
+			<launch lang="und">story.html</launch>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/6aXBLai5xi7" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">WELCOME LAYOUT</name>
+			<description lang="und">WELCOME LAYOUT</description>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/5rxLKJgOco5" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Here at MVD, one of our guiding values is taking care of our customers by taking care of our staff. </name>
+			<description lang="und">Here at MVD, one of our guiding values is taking care of our customers by taking care of our staff. </description>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/6DSl7aYK0pV" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">Not only do we have a state-of-the-art tool like Tapestry, but we have other valuable resources as well.</name>
+			<description lang="und">Not only do we have a state-of-the-art tool like Tapestry, but we have other valuable resources as well.</description>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/6Nmj0kFXh3I" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">We have the MVD Vehicle Procedures Manual.</name>
+			<description lang="und">We have the MVD Vehicle Procedures Manual.</description>
+		</activity>
+		<activity id="http://6cScpQEH93G_course_id/6L0POzYCmXR" type="http://adlnet.gov/expapi/activities/module">
+			<name lang="und">And, most importantly, we have our supervisors!</name>
+			<description lang="und">And, most importantly, we have our supervisors!</description>
+		</activity>
+	</activities>
+</tincan>
